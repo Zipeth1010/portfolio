@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    img: "https://pbs.twimg.com/media/FlAU6b3agAEk1sc?format=jpg&name=large",
+    img: "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/48415699_10155724600551927_2387102974410227712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=oMvsg56eg_cAX9JKIPf&_nc_ht=scontent-lhr8-1.xx&oh=00_AfD0vu5HVfm6g0IxGndu6G5y_tnFMJp7cxLJgJ8KsuQaRQ&oe=650B7736",
   },
   {
     id: 2,
@@ -21,6 +21,6 @@ export const data = [
   },
   {
     id: 6,
-    img: "https://scontent-lhr8-1.xx.fbcdn.net/v/t1.6435-9/48415699_10155724600551927_2387102974410227712_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=cdbe9c&_nc_ohc=oMvsg56eg_cAX9JKIPf&_nc_ht=scontent-lhr8-1.xx&oh=00_AfD0vu5HVfm6g0IxGndu6G5y_tnFMJp7cxLJgJ8KsuQaRQ&oe=650B7736",
+    img: "https://pbs.twimg.com/media/FlAU6b3agAEk1sc?format=jpg&name=large",
   },
 ];
