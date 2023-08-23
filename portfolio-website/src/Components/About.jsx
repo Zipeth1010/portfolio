@@ -13,7 +13,10 @@ const AboutComponent = () => {
   };
 
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-2 py-12 px-5 bg-gray-900 text-white mt-32 justify-center items-center">
+    <div
+      id="about"
+      className="grid grid-cols-1 lg:grid-cols-2 py-12 px-5 bg-gray-900 text-white mt-32 justify-center items-center"
+    >
       <div className="flex flex-col w-full items-center justify-center pl-5">
         <h3 className=" font-serif font-extrabold underline">My Journey</h3>
         <br />
